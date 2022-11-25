@@ -11,13 +11,41 @@
 	<atom:link href="http://a4vmanga.com/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>http://a4vmanga.com/</link>
 	<description></description>
-	<lastBuildDate>Fri, 25 Nov 2022 18:26:56 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 25 Nov 2022 21:19:21 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
+		<title>
+		Comment on Bài 3 by Lam Phong		</title>
+		<link>http://a4vmanga.com/bai-3/#comment-3</link>
+
+		<dc:creator><![CDATA[Lam Phong]]></dc:creator>
+		<pubDate>Fri, 25 Nov 2022 21:19:21 +0000</pubDate>
+		<guid isPermaLink="false">http://a4vmanga.com/?p=20#comment-3</guid>
+
+					<description><![CDATA[Thu73 comment]]></description>
+			<content:encoded><![CDATA[<p>Thu73 comment</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Bài 3 by dsadasdas		</title>
+		<link>http://a4vmanga.com/bai-3/#comment-2</link>
+
+		<dc:creator><![CDATA[dsadasdas]]></dc:creator>
+		<pubDate>Fri, 25 Nov 2022 21:18:25 +0000</pubDate>
+		<guid isPermaLink="false">http://a4vmanga.com/?p=20#comment-2</guid>
+
+					<description><![CDATA[dsadasda]]></description>
+			<content:encoded><![CDATA[<p>dsadasda</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
 		<title>
 		Comment on A4V.Manga by A WordPress Commenter		</title>
 		<link>http://a4vmanga.com/hello-world/#comment-1</link>
