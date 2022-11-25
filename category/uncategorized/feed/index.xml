@@ -12,7 +12,7 @@
 	<atom:link href="http://a4vmanga.com/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>http://a4vmanga.com/</link>
 	<description></description>
-	<lastBuildDate>Fri, 25 Nov 2022 19:22:24 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 25 Nov 2022 20:05:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,26 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
+		<title>Bài 3</title>
+		<link>http://a4vmanga.com/bai-3/</link>
+					<comments>http://a4vmanga.com/bai-3/#respond</comments>
+		
+		<dc:creator><![CDATA[A4V.Manga]]></dc:creator>
+		<pubDate>Fri, 25 Nov 2022 20:05:14 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://a4vmanga.com/?p=20</guid>
+
+					<description><![CDATA[Bài viết thứ 3]]></description>
+										<content:encoded><![CDATA[
+<p>Bài viết thứ 3</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://a4vmanga.com/bai-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Chào các bạn</title>
 		<link>http://a4vmanga.com/chao-cac-ban/</link>
 					<comments>http://a4vmanga.com/chao-cac-ban/#respond</comments>
